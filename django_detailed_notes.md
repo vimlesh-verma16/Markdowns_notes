@@ -1,9 +1,10 @@
 ### Django Indepth
 
+Django Central: https://djangocentral.com/
 Repo:  https://github.com/codingforentrepreneurs/eCommerce
 File Uploads with AWS S3 + Django :   https://www.codingforentrepreneurs.com/blog/large-file-uploads-with-amazon-s3-django
 
-
+Important
 ![image](https://github.com/user-attachments/assets/a094c924-c2f3-48d2-82cf-82f359439df0)
 
 ```
@@ -38,3 +39,7 @@ def product_detail_view(request, pk=None):
     context = {"object": instance}
     return render(request, "products/detail.html", context)
 ```
+
+## Django Models
+Learn About models.Manager : How to modify query or write your own query (Lecture: 3 Custom Model manager).
+
