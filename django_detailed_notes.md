@@ -1,6 +1,6 @@
 ### Django Indepth
 
-File Uploads with AWS S3 + Django
+File Uploads with AWS S3 + Django :   https://www.codingforentrepreneurs.com/blog/large-file-uploads-with-amazon-s3-django
 
 ![image](https://github.com/user-attachments/assets/a094c924-c2f3-48d2-82cf-82f359439df0)
 
